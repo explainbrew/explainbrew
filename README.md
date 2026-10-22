@@ -8,7 +8,7 @@ Every video comes with the exact prompt and links I used. They live here:
 
 ## Watch
 
-[TikTok](https://www.tiktok.com/@explainbrew)
+[YouTube](https://www.youtube.com/@explainbrew) · [TikTok](https://www.tiktok.com/@explainbrew) · [X](https://x.com/explainbrew)
 
 ## Work with me
 
