@@ -8,7 +8,19 @@ Every video comes with the exact prompt and links I used. They live here:
 
 ## Watch
 
-[YouTube](https://www.youtube.com/@explainbrew) · [TikTok](https://www.tiktok.com/@explainbrew) · [X](https://x.com/explainbrew)
+[YouTube](https://www.youtube.com/@explainbrew) · [TikTok](https://www.tiktok.com/@explainbrew) · [Instagram](https://www.instagram.com/explainbrew/) · [X](https://x.com/explainbrew)
+
+## Latest
+
+| Video | Resources |
+| --- | --- |
+| remove.bg shuts down Dec 1: rembg instead | [Guide + AI-agent prompt](https://github.com/explainbrew/prompts/tree/main/removebg-alternative) |
+| ArtCraft: 13 open-source Adobe & Office clones | [Guide](https://github.com/explainbrew/prompts/tree/main/artcraft) |
+| CleanYourTV: speed up an old Android TV | [Prompt](https://github.com/explainbrew/prompts/tree/main/cleanyourtv) |
+
+## Tools I use
+
+Voiceover: [ElevenLabs](https://try.elevenlabs.io/s3p4rzmexcmc) (affiliate link: I earn a commission if you subscribe, at no extra cost to you).
 
 ## Work with me
 
