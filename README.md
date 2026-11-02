@@ -18,9 +18,9 @@ Voiceover: [ElevenLabs](https://try.elevenlabs.io/s3p4rzmexcmc) (affiliate link:
 
 | Video | Resources |
 | --- | --- |
+| How Claude Code makes these videos | [Every step](https://github.com/explainbrew/prompts/tree/main/claude-video-pipeline) |
 | Insomnia: keep your MacBook awake with the lid closed | [Guide](https://github.com/explainbrew/prompts/tree/main/insomnia) |
 | remove.bg shuts down Dec 1: rembg instead | [Guide + AI-agent prompt](https://github.com/explainbrew/prompts/tree/main/removebg-alternative) |
-| ArtCraft: 13 open-source Adobe & Office clones | [Guide](https://github.com/explainbrew/prompts/tree/main/artcraft) |
 
 ## Work with me
 
