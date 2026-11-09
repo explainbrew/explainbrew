@@ -18,9 +18,9 @@ Voiceover: [ElevenLabs](https://try.elevenlabs.io/s3p4rzmexcmc) (affiliate link:
 
 | Video | Resources |
 | --- | --- |
+| gpu-unlock: GeForce at half-speed AI | [Numbers + risks](https://github.com/explainbrew/prompts/tree/main/gpu-unlock) |
 | REA: reverse engineering with Claude Code | [Official sources + safe use](https://github.com/explainbrew/prompts/tree/main/rea) |
 | Old PC games in your browser | [How it works + a clean port](https://github.com/explainbrew/prompts/tree/main/browser-games) |
-| How Claude Code makes these videos | [Every step](https://github.com/explainbrew/prompts/tree/main/claude-video-pipeline) |
 
 ## Work with me
 
